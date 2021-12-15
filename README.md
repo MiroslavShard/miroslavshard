@@ -3,7 +3,7 @@
 <!--- GitHub Stats Badge --->
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=MiroslavShard&count_private=true&show_icons=true&include_all_commits=true&theme=nord"/></a>
+    <img width="420" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=MiroslavShard&count_private=true&show_icons=true&include_all_commits=true&theme=nord"/></a>
 </p>
 
 My name is Miroslav. I'm Unity Developer & Game Designer from Kyiv, Ukraine. I'm currently working at @CobraGamesStudio as a Lead Unity Developer.<br>
