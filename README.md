@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, everyone! 👋
 
-<!--
-**MiroslavShard/miroslavshard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- GitHub Stats Badge --->
+<p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=MiroslavShard&count_private=true&show_icons=true&include_all_commits=true&theme=nord"/></a>
+</p>
 
-Here are some ideas to get you started:
+My name is Miroslav. I'm Unity Developer & Game Designer from Ukraine, Kyiv. I'm currently working at @CobraGamesStudio as a Lead Unity Developer.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>I love games!</b> ❤<br> 
+I like to play them 🎮 and I like to make them 🔨<br>
+
+I've been making games for over 6 years (since 2015 when I was 13) 🚀
+
+## 📫 Contact me
+- Soon...
