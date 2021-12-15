@@ -13,5 +13,8 @@ I like to play them 🎮 and I like to make them 🔨<br>
 
 I've been making games for over 6 years (<i>since 2015 when I was 13</i>) 🚀
 
+## 🎮 My projects
+- Soon...
+
 ## 📫 Contact me
 - Soon...
