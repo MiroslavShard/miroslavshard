@@ -11,7 +11,7 @@ My name is Miroslav. I'm Unity Developer & Game Designer from Kyiv, Ukraine. I'm
 <b>I love games!</b> ❤<br> 
 I like to play them 🎮 and I like to make them 🔨<br>
 
-I've been making games for over 6 years (<i>since 2015 when I was 13</i>) 🚀
+I've been making games for over 7 years (<i>since 2015</i>) 🚀
 
 ## 🎮 My projects
 [HERE](https://github.com/MiroslavShard/miroslavshard/blob/main/PROJECTS.md)
