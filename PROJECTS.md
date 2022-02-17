@@ -11,14 +11,11 @@
 | | | | | | |
 | 🌎 Liquid Galaxy AR | 2019 | App | Mobile | AR | Personal |
 | 🚀 Way to space | 2019 | Game | Mobile | Simulator | Personal |
-
-### 2018
-- 💵 Business Clicker: Evolution (Game / Mobile / Clicker) | [Google Play](https://play.google.com/store/apps/details?id=org.cobragames.businessclickerevolution)
-- 🛡 Clash of Towns (Game / Desktop / Tower Defence) | ???
-
-### 2017
-- 💵 Business Clicker: Classic (Game / Mobile / Clicker) | [Google Play](https://play.google.com/store/apps/details?id=com.CobraGames.BusinessClicker)
-
-### 2016
-- 🔬 The Laboratory of «Science Job» (Game / Desktop / Platform Game) | ???
-- 🔍 Open World (Game / Desktop / Exploration ) | ???
+| | | | | | |
+| 💵 Business Clicker: Evolution | 2018 | Game | Mobile | Clicker | Commercial |
+| 🛡 Clash of Towns | 2018 | Game | Mobile | Tower Defence | Personal |
+| | | | | | |
+| 💵 Business Clicker: Classic | 2017 | Game | Mobile | Clicker | Commercial |
+| | | | | | |
+| 🔬 The Laboratory of «Science Job» | 2016 | Game | Desktop | Platform Game | Personal |
+| 🔍 Open World | 2016 | Game | Desktop | Exploration | Personal |
