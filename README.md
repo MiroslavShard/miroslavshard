@@ -21,3 +21,7 @@ I've been making games for over 7 years (<i>since 2015</i>) 🚀
 
 ## 📫 Contact me
 - Soon...
+
+## 📊 GitHub Stats
+| <a href="https://github.com/miroslavshard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miroslavshard&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miroslav's github stats" /></a> | <a href="https://github.com/miroslavshard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslavshard&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
