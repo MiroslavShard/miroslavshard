@@ -1,9 +1,13 @@
 # Hello, everyone! 👋
-Welcome to my page!<br>
-I'm Miroslav, <b>Fullstack Unity Developer</b> & <b>Game Designer</b> from <b>Kyiv, Ukraine</b>, currently living in <b>Kyiv, Ukraine</b>. I've been making games for over 7 years (<i>since 2015</i>) 🚀 I'm currently working at [@CobraGamesStudio](https://twitter.com/cobragamesdev) as a Lead Unity Developer.<br>
+Welcome to my page!
 
-<b>I love games!</b> ❤<br> 
-I like to play them 🎮 and I like to make them 🔨<br>
+• I'm Miroslav, <b>Fullstack Unity Developer</b> & <b>Game Designer</b> from <b>Kyiv, Ukraine</b>, currently living in <b>Kyiv, Ukraine</b>.<br>
+• I've been making games for over 7 years, since 2015.<br>
+• I'm currently working at [Cobra Games Studio](https://twitter.com/cobragamesdev) as a Lead Unity Developer.<br>
+• My main goal in my life is to make video games that will help and inspire other people.
+
+><b>I love games!</b> ❤<br> 
+>I like to play them 🎮 and I like to make them 🔨<br>
 
 ## 🎮 My projects
 <details>
