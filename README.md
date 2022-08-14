@@ -30,6 +30,8 @@ I like to play them 🎮 and I like to make them 🔨<br>
 | |
 | 💵 | Business Clicker: Evolution | 2018 | Game | Mobile | Clicker | Commercial | - |
 | 🛡 | Clash of Towns | 2018 | Game | Mobile | Tower Defence | Personal | - |
+| 📷 | Dollar AR | 2018 | App | Mobile | AR | Personal | - |
+| 🍀 | Biology AR | 2018 | App | Mobile | AR | Personal | - |
 | |
 | 💵 | Business Clicker: Classic | 2017 | Game | Mobile | Clicker | Commercial | - |
 | |
