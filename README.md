@@ -20,9 +20,9 @@ I like to play them 🎮 and I like to make them 🔨<br>
 | |
 | 🐍 | Car Snake Online | 2022 | Game | Mobile | Hyper Casual | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.snake) |
 | |
-| 💾 | Save Gamedev | 2021 | Game | Desktop | Shooter | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="35%" height="35%">](https://github.com/MiroslavShard/genesis-game-jam-2021) |
+| 💾 | Save Gamedev | 2021 | Game | Desktop | Shooter | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="30%" height="30%">](https://github.com/MiroslavShard/genesis-game-jam-2021) |
 | 🚇 | Euro Subway Simulator | 2021 | Game | Mobile | Simulator | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.subway) |
-| 🧪 | Chemistry AR | 2021 | App | Mobile | AR | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="35%" height="35%">](https://github.com/MiroslavShard/chemistry-ar) |
+| 🧪 | Chemistry AR | 2021 | App | Mobile | AR | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="30%" height="30%">](https://github.com/MiroslavShard/chemistry-ar) |
 | |
 | 🐟 | Clean a Fish | 2020 | Game | Mobile | Simulator | Freelance | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.figasegames.cleanafish) |
 | 📚 | English for Kids VR | 2020 | Game | Mobile | VR | Freelance | - |
