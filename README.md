@@ -5,7 +5,7 @@
 • I've been making games for over 8 years, since 2015.<br>
 • I'm currently working at [Cobra Games Studio](https://twitter.com/cobragamesdev) as a Lead Unity Developer.<br>
 • My main goal in my life is to make video games that will help and inspire other people.<br>
-• Passionate in aviation ✈, movies 🎬, table tennis 🏓 & karting 🏁
+• Passionate in aviation ✈, movies 🎬, table tennis 🏓, cycling 🚴‍♂️ & karting 🏁
 
 <b>I love video games!</b> ❤<br> 
 I like to play them 🎮 and I like to make them 🔨<br>
