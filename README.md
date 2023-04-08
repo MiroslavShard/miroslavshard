@@ -16,17 +16,17 @@ I like to play them 🎮 and I like to make them 🔨<br>
   
 | | Title | Year | Type | Platform | Genre | Status | URL |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🚚 | Tiny Truck Simulator | 2023 | Game | Mobile | Simulator | Commercial | - |
+| 🚚 | Tiny Truck Simulator | 2023 | Game | Mobile | Simulator | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.truck) |
 | |
-| 🐍 | Car Snake Online | 2022 | Game | Mobile | Hyper Casual | Commercial | - |
+| 🐍 | Car Snake Online | 2022 | Game | Mobile | Hyper Casual | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.snake) |
 | |
-| 💾 | Save Gamedev | 2021 | Game | Desktop | Shooter | Personal | - |
-| 🚇 | Euro Subway Simulator | 2021 | Game | Mobile | Simulator | Commercial | - |
-| 🧪 | Chemistry AR | 2021 | App | Mobile | AR | Personal | - |
+| 💾 | Save Gamedev | 2021 | Game | Desktop | Shooter | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="35%" height="35%">](https://github.com/MiroslavShard/genesis-game-jam-2021) |
+| 🚇 | Euro Subway Simulator | 2021 | Game | Mobile | Simulator | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.subway) |
+| 🧪 | Chemistry AR | 2021 | App | Mobile | AR | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="35%" height="35%">](https://github.com/MiroslavShard/chemistry-ar) |
 | |
-| 🐟 | Clean a Fish | 2020 | Game | Mobile | Simulator | Freelance | - |
+| 🐟 | Clean a Fish | 2020 | Game | Mobile | Simulator | Freelance | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.figasegames.cleanafish) |
 | 📚 | English for Kids VR | 2020 | Game | Mobile | VR | Freelance | - |
-| 📱 | Overda Mobile | 2020 | App | Mobile | Tools | Commercial | - |
+| 📱 | Overda Mobile | 2020 | App | Mobile | Tools | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.overda.mobile) |
 | |
 | 🌎 | Liquid Galaxy AR | 2019 | App | Mobile | AR | Personal | - |
 | 🚀 | Way to space | 2019 | Game | Mobile | Simulator | Personal | - |
