@@ -25,18 +25,18 @@ I like to play them 🎮 and I like to make them 🔨<br>
 | 🧪 | Chemistry AR | 2021 | App | Mobile | AR | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/github.png" width="30%" height="30%">](https://github.com/MiroslavShard/chemistry-ar) |
 | |
 | 🐟 | Clean a Fish | 2020 | Game | Mobile | Simulator | Freelance | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.figasegames.cleanafish) |
-| 📚 | English for Kids VR | 2020 | Game | Mobile | VR | Freelance | - |
+| 📚 | English for Kids VR | 2020 | Game | Mobile | VR | Freelance | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/youtube.png" width="30%" height="30%">](https://youtu.be/iliEnVbnyqs) |
 | 📱 | Overda Mobile | 2020 | App | Mobile | Tools | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.overda.mobile) |
 | |
-| 🌎 | Liquid Galaxy AR | 2019 | App | Mobile | AR | Personal | - |
-| 🚀 | Way to space | 2019 | Game | Mobile | Simulator | Personal | - |
+| 🌎 | Liquid Galaxy AR | 2019 | App | Mobile | AR | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/youtube.png" width="30%" height="30%">](https://youtu.be/bZKDtK1u8EM) |
+| 🚀 | Way to space | 2019 | Game | Mobile | Simulator | Personal | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/youtube.png" width="30%" height="30%">](https://youtu.be/mhRB09zAk0o) |
 | |
-| 💵 | Business Clicker: Evolution | 2018 | Game | Mobile | Clicker | Commercial | - |
+| 💵 | Business Clicker: Evolution | 2018 | Game | Mobile | Clicker | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=org.cobragames.businessclickerevolution) |
 | 🛡 | Clash of Towns | 2018 | Game | Mobile | Tower Defence | Personal | - |
 | 📷 | Dollar AR | 2018 | App | Mobile | AR | Personal | - |
 | 🍀 | Biology AR | 2018 | App | Mobile | AR | Personal | - |
 | |
-| 💵 | Business Clicker: Classic | 2017 | Game | Mobile | Clicker | Commercial | - |
+| 💵 | Business Clicker: Classic | 2017 | Game | Mobile | Clicker | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.CobraGames.BusinessClicker) |
 | |
 | 🔬 | The Laboratory of «Science Job» | 2016 | Game | Desktop | Platform Game | Personal | - |
 | 🔍 | Open World | 2016 | Game | Desktop | Exploration | Personal | - |
