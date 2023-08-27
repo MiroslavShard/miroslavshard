@@ -11,11 +11,15 @@
 I like to play them 🎮 and I like to make them 🔨<br>
 
 ## 🎮 My projects
+I have created 19 public projects so far. 8 of them are commercial, 9 are personal and 2 are ordered.
+
 <details>
   <summary><b>List of all my projects</b></summary>
   
 | | Title | Year | Type | Platform | Genre | Status | URL |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🚇 | Idle Subway Tycoon | 2023 | Game | Mobile | Tycoon | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.idle.subway.tycoon.train.station.empire.underground.railway.tran.railroad.simulator)
+| ✈ | Idle Airplane Factory | 2023 | Game | Mobile | Tycoon | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.idle.airplane.factory.tycoon.aircraft.airport.empire.airlines)
 | 🚚 | Tiny Truck Simulator | 2023 | Game | Mobile | Simulator | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.truck) |
 | |
 | 🐍 | Car Snake Online | 2022 | Game | Mobile | Hyper Casual | Commercial | [<img align="center" src="https://github.com/MiroslavShard/miroslavshard/blob/main/google-play.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=com.cobragames.snake) |
